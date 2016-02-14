@@ -1,8 +1,8 @@
 Package: ipfp
 Type: Package
-Title: Fast implementation of the iterative proportional fitting
-        procedure in C
-Version: 1.0
+Title: Fast Implementation of the Iterative Proportional Fitting
+        Procedure in C
+Version: 1.0.1
 Author: Alexander W Blocker
 Maintainer: Alexander W Blocker <ablocker@gmail.com>
 Description: A fast (C) implementation of the iterative proportional fitting
@@ -11,7 +11,8 @@ License: Apache License (== 2.0)
 LazyLoad: yes
 URL: https://github.com/awblocker/ipfp
 Collate: 'ipfp.R'
-Packaged: 2013-07-09 04:15:35 UTC; awblocker
+RoxygenNote: 5.0.1
 NeedsCompilation: yes
+Packaged: 2016-02-14 21:30:33 UTC; awblocker
 Repository: CRAN
-Date/Publication: 2013-07-09 08:02:01
+Date/Publication: 2016-02-14 23:02:26
